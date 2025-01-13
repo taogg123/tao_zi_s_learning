@@ -4,7 +4,9 @@
 
 <instance-profile id="hi"
                  name="instance"
-                 start-page="starter-topic.md">
+                 start-page="writer_side.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="writer_side.md"/>
+    <toc-element topic="git使用说明.md" toc-title="git说明"/>
+    <toc-element topic="open-api说明.md" toc-title="open_api说明"/>
 </instance-profile>
