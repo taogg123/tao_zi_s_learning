@@ -1,3 +1,3 @@
-# git使用说明
+# git
 
 Start typing here...

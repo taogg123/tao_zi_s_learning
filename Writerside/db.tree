@@ -8,6 +8,6 @@
 
     <toc-element topic="data-base.md"/>
     <toc-element topic="relation-关系.md">
-        <toc-element topic="key-键.md"/>
     </toc-element>
+    <toc-element topic="key-键.md"/>
 </instance-profile>

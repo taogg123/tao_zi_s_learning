@@ -6,16 +6,24 @@
                  name="instance"
                  start-page="writer_side.md">
 
-    <toc-element topic="markdown说明.md"/>
+    <toc-element topic="markdown说明.md">
+        <toc-element topic="链接.md"/>
+    </toc-element>
     <toc-element topic="writer_side.md">
         <toc-element topic="Modules.md"/>
         <toc-element topic="Instance.md"/>
         <toc-element topic="Markup.md">
             <toc-element toc-title="jetbranis semantic markup reference"
                          href="https://www.jetbrains.com/help/writerside/semantic-markup-reference.html" />
-            <toc-element topic="语义标签semantic-markup说明实例.md"/>
+            <toc-element topic="语义标签semantic-markup说明实例.md">
+                <toc-element topic="see-also.md"/>
+                <toc-element topic="a.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
-    <toc-element topic="git使用说明.md" toc-title="git说明"/>
-    <toc-element topic="open-api说明.md" toc-title="open_api说明"/>
+    <toc-element topic="git使用说明.md" toc-title="git "/>
+    <toc-element topic="open-api说明.md" toc-title="open_api"/>
+    <toc-element topic="database.md">
+        <toc-element topic="keys.md"/>
+    </toc-element>
 </instance-profile>

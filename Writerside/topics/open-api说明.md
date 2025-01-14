@@ -1,3 +1,3 @@
-# open api说明
+# open api
 
 Start typing here...

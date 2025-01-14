@@ -10,4 +10,8 @@
         <description>Created after removal of "start" from instance</description>
         <accepts>starter-topic.html</accepts>
     </rule>
+    <rule id="55419439">
+        <description>Created after removal of "keys 键" from instance</description>
+        <accepts>key-键.html</accepts>
+    </rule>
 </rules>
