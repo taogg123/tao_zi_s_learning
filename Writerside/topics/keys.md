@@ -19,3 +19,9 @@
 <note>
 <a href="#primaryKeys">主键</a>的选择通常基于业务以及数据库的特点。
 </note>
+
+主键通常在底下划上横线。
+
+<code-block lang="tex">
+    relation(\underline{building},\underline{room\_number},capacity  )
+</code-block>

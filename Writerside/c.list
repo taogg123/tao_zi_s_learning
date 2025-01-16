@@ -5,4 +5,5 @@
     <category id="wrs" name="Writerside documentation" order="1"/>
     <category id="related" name="Related topics" order="3"/>
     <category id="external" name="External resources" order="2"/>
+    <category id="drop table" name="Drop table" order="4"/>
 </categories>
