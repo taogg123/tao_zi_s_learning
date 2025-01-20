@@ -1,4 +1,4 @@
-# 集合运算 set
+# 集合运算
 
 <procedure>
 <step>
