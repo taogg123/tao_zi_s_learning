@@ -24,10 +24,13 @@
     <toc-element topic="git使用说明.md" toc-title="git "/>
     <toc-element topic="open-api说明.md" toc-title="open_api"/>
     <toc-element topic="database.md">
+        <toc-element topic="练习题-数据库系统概念.md"/>
         <toc-element topic="schema-diagram.md"/>
         <toc-element topic="keys.md"/>
         <toc-element topic="SQL语言.md">
             <toc-element topic="基础类型.md"/>
+            <toc-element topic="自定义类型.md"/>
+            <toc-element topic="自动生成序列.md"/>
             <toc-element topic="字符串.md"/>
             <toc-element topic="集合运算-set.md"/>
             <toc-element topic="NULL值.md"/>
@@ -49,6 +52,18 @@
                 <toc-element topic="delete-from.md"/>
                 <toc-element topic="alter-table.md"/>
             </toc-element>
+            <toc-element topic="join语句.md">
+                <toc-element topic="natural-join-自然连接.md"/>
+                <toc-element topic="outer-join.md"/>
+                <toc-element topic="join.md"/>
+            </toc-element>
+            <toc-element topic="view-试图.md"/>
+            <toc-element topic="Transactions-事务.md"/>
         </toc-element>
+    </toc-element>
+    <toc-element topic="postgreSql.md"/>
+    <toc-element topic="docker.md">
+        <toc-element topic="exec命令.md"/>
+        <toc-element topic="常用的docker命令集合.md"/>
     </toc-element>
 </instance-profile>
