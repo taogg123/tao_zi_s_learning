@@ -17,4 +17,11 @@
 <li><code>--workdir,-w</code>：指定命令的工作目录</li>
 <li><code>--tty,-t</code>：分配一个为终端</li>
 </list>
+<p>
+docker 进入容器的bash：
+</p>
+<code-block lang="bash">
+    docker exec -it pgsql /bin/bash
+</code-block>
+
 </chapter>

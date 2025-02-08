@@ -59,6 +59,9 @@
             </toc-element>
             <toc-element topic="view-试图.md"/>
             <toc-element topic="Transactions-事务.md"/>
+            <toc-element topic="索引.md"/>
+            <toc-element topic="鉴权.md"/>
+            <toc-element topic="函数.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="postgreSql.md"/>
@@ -66,4 +69,5 @@
         <toc-element topic="exec命令.md"/>
         <toc-element topic="常用的docker命令集合.md"/>
     </toc-element>
+    <toc-element topic="设计模式.md"/>
 </instance-profile>
